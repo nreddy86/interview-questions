@@ -44,8 +44,6 @@ namespace CDSPractical {
         ///         "gainful",
         ///         "wind",
         ///         "warn",
-		/// 		"test",
-        /// 		"test555"
         ///     },
         ///     new List<string> {
         ///         "wacky",
